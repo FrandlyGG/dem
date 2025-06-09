@@ -1,0 +1,8 @@
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  max-width:390px;
+  margin:auto;
+}
+.container{padding:10px;}
+input,select,button{width:100%;margin:8px 0;padding:8px;}
